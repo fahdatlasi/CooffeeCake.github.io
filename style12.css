@@ -1,0 +1,59 @@
+html {
+    background-color: rgb(255, 225, 189);
+}
+.imc {
+    margin-top: 100px;
+    margin-left: 100px;  
+    float: inline-start;
+}
+.entrer {
+    box-sizing: border-box;
+    height: 100px;
+    width: 1347px;
+    position: relative;
+    padding: 5px;
+    z-index: 100;
+    border: 2px solid rgb(255, 116, 35); 
+ background-color: rgb(211, 80, 4);
+ text-align: center;
+ position: fixed;
+}
+li {
+    text-align: center;
+    font-family: "pacifico";
+   width: 250px;
+    display: inline-block;
+    color: #ffffff;
+}
+.SH {
+    font-size: 20px;
+}
+.SE {
+    font-size: 25px;
+}
+.CO {
+    font-size: 30px;
+}
+.PA {
+    font-size: 25px;
+}
+.IN {
+    font-size: 20px;
+}
+.ins {
+    margin-top: 140px;
+    position: fixed;
+}
+.fac {
+    margin-top: 200px;
+    position: fixed; 
+}
+.twt {
+    margin-top: 260px;
+    position: fixed;    
+}
+h2 {
+    float: left;
+    font-family: "Lobster Two";
+    color: #403631;
+}
